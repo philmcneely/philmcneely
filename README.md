@@ -10,6 +10,7 @@ I'm a tester at heart who ended up building things. I learn by doing, I'm self-t
 - ✍️ **[Medium](https://medium.com/@philmcneely)** · 💼 **[LinkedIn](https://www.linkedin.com/in/philmcneely/)**
 
 #### Open source
+- **[Voyageur](https://github.com/philmcneely/voyageur)**: repairs Playwright locators that have drifted after a UI change. The model picks the element, the service writes the locator, and the test proves the fix. Runs locally as a service, with Python and TypeScript clients
 - **[playwright-ai-framework](https://github.com/philmcneely/playwright-ai-framework)**: Python Playwright framework with AI-powered defect diagnostics that analyze test failures, surface root causes, and recommend code fixes
 - **[playwright-ai-framework-ts](https://github.com/philmcneely/playwright-ai-framework-ts)**: the same framework in TypeScript
 - **[test-forge](https://github.com/philmcneely/test-forge)**: test generation from Jira tickets and Confluence pages, with BDD pattern reuse via a vector database
